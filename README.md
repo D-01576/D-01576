@@ -2,9 +2,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfaraz01576&label=Profile%20views&color=0e75b6&style=flat" alt="sarfaraz01576" /> </p>
 <img align="right" alt="power" width="400" src="https://giffiles.alphacoders.com/339/33944.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfaraz01576" alt="sarfaraz01576" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sarfaraz01576" target="blank"><img src="https://img.shields.io/twitter/follow/sarfaraz01576?logo=twitter&style=for-the-badge" alt="sarfaraz01576" /></a> </p>
 
 - 🌱 I’m currently learning **C++**
 
@@ -13,6 +10,10 @@
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **sarfaraz.8.kh@gmail.com**
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfaraz01576" alt="sarfaraz01576" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/sarfaraz01576" target="blank"><img src="https://img.shields.io/twitter/follow/sarfaraz01576?logo=twitter&style=for-the-badge" alt="sarfaraz01576" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
