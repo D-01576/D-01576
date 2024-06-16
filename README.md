@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarfaraz Ahmed</h1>
+<h1 align="center">Hi 👋, I'm Siraj khatti</h1>
 <img align="right" alt="power" width="400" src="https://giffiles.alphacoders.com/339/33944.gif">
 
 
