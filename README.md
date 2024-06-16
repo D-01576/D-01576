@@ -8,8 +8,6 @@
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **sarfaraz.8.kh@gmail.com**
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarfaraz01576&label=Profile%20views&color=0e75b6&style=flat" alt="sarfaraz01576" /> </p>
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarfaraz01576" alt="sarfaraz01576" /></a> </p>
 
